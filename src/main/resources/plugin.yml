@@ -1,6 +1,6 @@
 name: SimpleRunes
 version: '${project.version}'
-main: com.venned.simplerunes.Main
+main: com.chillguy.simplerunes.Main
 api-version: '1.20'
 commands:
   runner:

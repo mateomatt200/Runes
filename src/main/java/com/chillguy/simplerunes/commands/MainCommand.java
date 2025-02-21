@@ -1,21 +1,16 @@
-package com.venned.simplerunes.commands;
+package com.chillguy.simplerunes.commands;
 
-import com.venned.simplerunes.abstracts.Runner;
-import com.venned.simplerunes.utils.PDHUtils;
-import org.bukkit.Material;
+import com.chillguy.simplerunes.abstracts.Runner;
+import com.chillguy.simplerunes.utils.PDHUtils;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.TabCompleter;
 import org.bukkit.entity.Player;
-import org.bukkit.inventory.ItemStack;
-import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.persistence.PersistentDataType;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.function.BinaryOperator;
 
 public class MainCommand implements CommandExecutor, TabCompleter {
 

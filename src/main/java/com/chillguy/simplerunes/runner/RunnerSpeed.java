@@ -1,12 +1,9 @@
-package com.venned.simplerunes.runner;
+package com.chillguy.simplerunes.runner;
 
-import com.venned.simplerunes.abstracts.Runner;
+import com.chillguy.simplerunes.abstracts.Runner;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 import org.bukkit.inventory.ItemStack;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class RunnerSpeed extends Runner {
 

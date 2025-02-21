@@ -1,12 +1,11 @@
-package com.venned.simplerunes.utils;
+package com.chillguy.simplerunes.utils;
 
-import com.venned.simplerunes.abstracts.Runner;
-import com.venned.simplerunes.build.BookRunner;
-import com.venned.simplerunes.runner.RunnerHaste;
-import com.venned.simplerunes.runner.RunnerRegen;
-import com.venned.simplerunes.runner.RunnerSpeed;
+import com.chillguy.simplerunes.abstracts.Runner;
+import com.chillguy.simplerunes.build.BookRunner;
+import com.chillguy.simplerunes.runner.RunnerHaste;
+import com.chillguy.simplerunes.runner.RunnerRegen;
+import com.chillguy.simplerunes.runner.RunnerSpeed;
 import org.bukkit.Bukkit;
-import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;

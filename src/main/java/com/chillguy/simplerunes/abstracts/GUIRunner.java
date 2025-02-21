@@ -1,9 +1,7 @@
-package com.venned.simplerunes.abstracts;
+package com.chillguy.simplerunes.abstracts;
 
-import com.venned.simplerunes.listener.CustomGUIListener;
+import com.chillguy.simplerunes.listener.CustomGUIListener;
 import org.bukkit.entity.Player;
-import org.bukkit.event.EventHandler;
-import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.plugin.Plugin;
 

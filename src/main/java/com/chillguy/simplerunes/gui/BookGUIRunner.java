@@ -1,9 +1,9 @@
-package com.venned.simplerunes.gui;
+package com.chillguy.simplerunes.gui;
 
-import com.venned.simplerunes.abstracts.Runner;
-import com.venned.simplerunes.build.BookRunner;
-import com.venned.simplerunes.utils.MapUtils;
-import com.venned.simplerunes.utils.PDHUtils;
+import com.chillguy.simplerunes.abstracts.Runner;
+import com.chillguy.simplerunes.build.BookRunner;
+import com.chillguy.simplerunes.utils.MapUtils;
+import com.chillguy.simplerunes.utils.PDHUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.Sound;
@@ -16,7 +16,6 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.persistence.PersistentDataContainer;
 import org.bukkit.persistence.PersistentDataType;
-import org.bukkit.plugin.Plugin;
 
 import java.util.*;
 

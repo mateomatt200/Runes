@@ -1,4 +1,4 @@
-package com.venned.simplerunes.utils;
+package com.chillguy.simplerunes.utils;
 
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;

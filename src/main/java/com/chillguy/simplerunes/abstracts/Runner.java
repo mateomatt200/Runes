@@ -1,4 +1,4 @@
-package com.venned.simplerunes.abstracts;
+package com.chillguy.simplerunes.abstracts;
 
 import org.bukkit.NamespacedKey;
 import org.bukkit.inventory.ItemFlag;

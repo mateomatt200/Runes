@@ -1,13 +1,13 @@
-package com.venned.simplerunes;
+package com.chillguy.simplerunes;
 
-import com.venned.simplerunes.commands.MainCommand;
-import com.venned.simplerunes.gui.BookGUIRunner;
-import com.venned.simplerunes.gui.RunnerGUIRunner;
-import com.venned.simplerunes.listener.InteractBookListener;
-import com.venned.simplerunes.listener.InteractRunnerListener;
-import com.venned.simplerunes.utils.BookRunnable;
-import com.venned.simplerunes.utils.MapUtils;
-import com.venned.simplerunes.utils.PDHUtils;
+import com.chillguy.simplerunes.commands.MainCommand;
+import com.chillguy.simplerunes.gui.BookGUIRunner;
+import com.chillguy.simplerunes.gui.RunnerGUIRunner;
+import com.chillguy.simplerunes.listener.InteractBookListener;
+import com.chillguy.simplerunes.listener.InteractRunnerListener;
+import com.chillguy.simplerunes.utils.BookRunnable;
+import com.chillguy.simplerunes.utils.MapUtils;
+import com.chillguy.simplerunes.utils.PDHUtils;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.Objects;
